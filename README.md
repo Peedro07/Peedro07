@@ -1,16 +1,16 @@
-### Welcolm in my github 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**Peedro07/Peedro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut, je suis Wafmart Pierre, un développeur passionné âgé de 29 ans avec une expérience de 7 ans dans le domaine du développement web. Je suis spécialisé dans plusieurs technologies et frameworks, dont PHP, Symfony, JavaScript, React, Node.js, et Next.js. Ce profil GitHub est l'endroit où je partage mes projets et contributions open source.
 
-Here are some ideas to get you started:
+## Mes Compétences   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages de Programmation** : PHP, JavaScript
+- **Frameworks Backend** : Symfony
+- **Frameworks Frontend** : React, Next.js
+- **Technologies Backend** : Node.js
+- **Bases de Données** : MySQL, PostgreSQL, MongoDB
+- **Gestionnaires de Version** : Git, GitHub
+- **Méthodologies** : Agile, Scrum
+- **Déploiement et Infrastructures** : AWS, Docker
+- **Conception UI/UX** : HTML5, CSS3, SCSS
+
